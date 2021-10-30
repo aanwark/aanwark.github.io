@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : pic.jpeg # Open Graph/Twitter default site image
+og_image                 : pic.png # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ali Anwar"
-  avatar           : "pic.jpeg"
+  avatar           : "pic.png"
   bio              : "Principle research fellow at University of Antwerp"
   location         : "Antwerp, Flemish region, Belgium"
   employer         : "University of Antwerp"
