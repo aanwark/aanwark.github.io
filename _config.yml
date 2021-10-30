@@ -87,7 +87,7 @@ author:
   employer         : "University of Antwerp"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=8bC9-DYAAAAJ"
-  email            :
+  email            : "ali.anwar@uantwerpen.be"
   researchgate     : "https://www.researchgate.net/profile/Ali-Anwar-10"
   uri              :
   bitbucket        :
@@ -97,6 +97,7 @@ author:
   facebook         :
   foursquare       :
   github           : "aanwark"
+  gitlab           : "aanwar"
   google_plus      :
   keybase          :
   instagram        :
@@ -255,7 +256,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Brussels # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
