@@ -59,6 +59,8 @@
       <p>
       {% if post.citation %}
         {{ post.citation }}
+      {% elsif post.summary %}
+        {{ post.summary }}
       {% endif %}
       <br>
       {% if post.link %}
