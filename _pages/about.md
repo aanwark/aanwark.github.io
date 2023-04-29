@@ -33,10 +33,10 @@ PhD Students
 -----
 
 [Ahmed N. Ahmed](https://www.uantwerpen.be/en/staff/ahmed-nasr-ahmed-abdelqader/)\
-[Jens Duym](https://www.uantwerpen.be/nl/personeel/jens-duym_22771/)
-[Siemen Herremans](https://www.uantwerpen.be/en/staff/siemen-herremans_23523/)
-[Niels Balemans](https://www.uantwerpen.be/nl/personeel/niels-balemans/)
-[Linh Khac Trinh](https://www.uantwerpen.be/en/staff/linh-trinh_24945/)
+[Jens Duym](https://www.uantwerpen.be/nl/personeel/jens-duym_22771/)\
+[Siemen Herremans](https://www.uantwerpen.be/en/staff/siemen-herremans_23523/)\
+[Niels Balemans](https://www.uantwerpen.be/nl/personeel/niels-balemans/)\
+[Linh Khac Trinh](https://www.uantwerpen.be/en/staff/linh-trinh_24945/)\
 [Jens de Hoog](https://www.uantwerpen.be/nl/personeel/jens-dehoog/)
 
 Doctoral Committees
