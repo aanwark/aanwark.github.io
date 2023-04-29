@@ -22,7 +22,7 @@ Hyperlinks:
 Pictures:
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 -->
-Ali Anwar works as a [Principle Research Fellow](https://www.uantwerpen.be/en/staff/ali-anwar/) at the [Faculty of Applied Engineering](https://www.uantwerpen.be/en/about-uantwerp/faculties/faculty-of-applied-engineering/) of [University of Antwerp](https://www.uantwerpen.be/en/). Ali obtained his Masters and PhD degrees in Control Science and Engineering from [Harbin Insitutute of Technology](http://en.hit.edu.cn/) in China. He graduated with his doctorate in December 2019, since the beginning of 2020, he is associated with [University of Antwerp](https://www.uantwerpen.be/en/). Ali also works with [IDLab](https://idlab.technology/) as a senior researcher **where he leads the team of vision based planning systems**. His research interests lie at the intersection of robotics, computer vision and artificial intelligence. Ali actively reviews for international peer reviewed conferences and journals including *IEEE annual conference of industrial electronics society, IEEE transations on industrial electronics, IEEE transactions on industrial informatics, Neural Networks, Neurocomputing and IEEE-ASME transactions on mechatronics*.
+Ali Anwar works as a [Principle Research Fellow](https://www.uantwerpen.be/en/staff/ali-anwar/) at the [Faculty of Applied Engineering](https://www.uantwerpen.be/en/about-uantwerp/faculties/faculty-of-applied-engineering/) of [University of Antwerp](https://www.uantwerpen.be/en/). Ali obtained his Masters and PhD degrees in Control Science and Engineering from [Harbin Insitutute of Technology](http://en.hit.edu.cn/) in China. He graduated with his doctorate in December 2019, since the beginning of 2020, he is associated with [University of Antwerp](https://www.uantwerpen.be/en/). Ali also works with [IDLab](https://idlab.technology/) as a senior researcher **where he leads the team of context aware control systems**. His research interests lie at the intersection of robotics, computer vision and artificial intelligence. Ali actively reviews for international peer reviewed conferences and journals including *IEEE annual conference of industrial electronics society, IEEE transations on industrial electronics, IEEE transactions on industrial informatics, Neural Networks, Neurocomputing and IEEE-ASME transactions on mechatronics*.
 
 Post-Doc Researchers
 -----
@@ -34,6 +34,10 @@ PhD Students
 
 [Ahmed N. Ahmed](https://www.uantwerpen.be/en/staff/ahmed-nasr-ahmed-abdelqader/)\
 [Jens Duym](https://www.uantwerpen.be/nl/personeel/jens-duym_22771/)
+[Siemen Herremans](https://www.uantwerpen.be/en/staff/siemen-herremans_23523/)
+[Niels Balemans](https://www.uantwerpen.be/nl/personeel/niels-balemans/)
+[Linh Khac Trinh](https://www.uantwerpen.be/en/staff/linh-trinh_24945/)
+[Jens de Hoog](https://www.uantwerpen.be/nl/personeel/jens-dehoog/)
 
 Doctoral Committees
 ------
