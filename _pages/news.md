@@ -2,5 +2,5 @@
 layout: archive
 title: "News"
 permalink: /news/
-layout: page
+author_profile: true
 ---
